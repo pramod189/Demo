@@ -3,9 +3,10 @@
 
     <modelVersion>4.0.0</modelVersion>   version 4.0.1
          version 4.0.2 <xml>
-                  version 4.0.2 <xmlijfsoijg>
-                           update need to be changed
 
+                  add some thing new by dev2
+
+          
     <!-- Build description -->
     <groupId>io.github.download-maven-plugin</groupId>
     <artifactId>download-maven-plugin</artifactId>
